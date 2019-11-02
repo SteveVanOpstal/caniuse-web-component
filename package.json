@@ -1,6 +1,6 @@
 {
   "name": "caniuse-web-component",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "./public/can-i-use.js",
   "module": "./public/can-i-use.js",
   "devDependencies": {

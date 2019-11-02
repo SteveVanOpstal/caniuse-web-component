@@ -145,7 +145,7 @@
     <div class="stat {entry.stat}">
       <p class={hovering ? 'hovering' : ''}>{entry.name} {entry.version}</p>
       {#if hovering}
-        <p class="usage">{Math.round(entry.usage * 100) / 100} %</p>
+        <p class="usage">{Math.round(entry.usage * 100) / 100}%</p>
       {/if}
     </div>
   {/each}
@@ -153,7 +153,7 @@
     <div class="stat gray">
       <p class={hovering ? 'hovering' : ''}>+{remaining_count}</p>
       {#if hovering}
-        <p class="usage">{Math.round(remaining_usage * 100) / 100} %</p>
+        <p class="usage">{Math.round(remaining_usage * 100) / 100}%</p>
       {/if}
     </div>
   {/if}
