@@ -37,5 +37,5 @@
   <span class="y">{full}%</span>
   +
   <span class="p">{partial}%</span>
-  = {full + partial}%
+  = {Math.round((full + partial) * 100) / 100}%
 </p>

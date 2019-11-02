@@ -102,12 +102,12 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 30px;
     color: white;
     background-color: #a8bd04;
     margin: 0.25rem;
-    padding: 0.25rem 1rem;
+    padding: 0.5rem 1rem;
     border-radius: 10px;
+    white-space: nowrap;
   }
 
   .stat.y {
@@ -129,6 +129,10 @@
   .stat .usage {
     position: absolute;
     margin: 0rem;
+  }
+
+  .stat p {
+    margin: 0;
   }
 </style>
 
