@@ -2,7 +2,7 @@
 
 # can-i-use
 
-A web component that shows LTS browser support.
+A web component that shows browser support in a compact form.
 
 ```html
 <head>
