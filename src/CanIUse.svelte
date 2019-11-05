@@ -96,6 +96,7 @@
 <style>
   .stats {
     display: flex;
+    flex-wrap: wrap;
   }
 
   .stat {
@@ -108,6 +109,7 @@
     padding: 0.5rem 1rem;
     border-radius: 10px;
     white-space: nowrap;
+    min-width: 80px;
   }
 
   .stat.y {
@@ -124,6 +126,7 @@
 
   .stat .hovering {
     color: transparent;
+    text-shadow: none;
   }
 
   .stat .usage {
