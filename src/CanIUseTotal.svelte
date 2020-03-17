@@ -29,6 +29,7 @@
 
   .p {
     color: #a8bd04;
+    margin: 0;
   }
 </style>
 
