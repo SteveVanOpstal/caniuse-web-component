@@ -4,6 +4,10 @@
   "main": "./public/can-i-use.js",
   "module": "./public/can-i-use.js",
   "license": "MIT",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/SteveVanOpstal/caniuse-web-component.git"
+  },
   "devDependencies": {
     "@rollup/plugin-commonjs": "^16.0.0",
     "@rollup/plugin-node-resolve": "^10.0.0",
