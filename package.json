@@ -1,12 +1,12 @@
 {
   "name": "caniuse-web-component",
-  "version": "2.2.0",
+  "version": "2.2.1",
   "main": "./public/can-i-use.js",
   "module": "./public/can-i-use.js",
   "license": "MIT",
   "repository": {
-    "type" : "git",
-    "url" : "https://github.com/SteveVanOpstal/caniuse-web-component.git"
+    "type": "git",
+    "url": "https://github.com/SteveVanOpstal/caniuse-web-component.git"
   },
   "devDependencies": {
     "@rollup/plugin-commonjs": "^16.0.0",
