@@ -1,6 +1,6 @@
 {
   "name": "caniuse-web-component",
-  "version": "2.2.1",
+  "version": "2.2.2",
   "main": "./public/can-i-use.js",
   "module": "./public/can-i-use.js",
   "license": "MIT",
