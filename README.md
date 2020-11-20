@@ -15,7 +15,7 @@ A web component that shows browser support in a compact form.
 ```
 <custom-element-demo>
   <template>
-    <script defer src="/can-i-use.js"></script>
+    <script defer src="can-i-use.js"></script>
     <next-code-block></next-code-block>
   </template>
 </custom-element-demo>
@@ -39,7 +39,7 @@ A web component that shows the support percentage for full support, partial supp
 ```
 <custom-element-demo>
   <template>
-    <script defer src="/can-i-use.js"></script>
+    <script defer src="can-i-use.js"></script>
     <next-code-block></next-code-block>
   </template>
 </custom-element-demo>
